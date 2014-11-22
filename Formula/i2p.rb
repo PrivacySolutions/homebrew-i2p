@@ -3,10 +3,10 @@ require "formula"
 class I2p < Formula
 
   homepage "http://i2p.io"
-  url "https://github.com/PrivacySolutions/i2pd/archive/v0.3.0-1stbinrelease.tar.gz"
-  mirror "https://sigterm.no/media/i2pd/archive/v0.3.0-1stbinrelease.tar.gz"
+  url "https://github.com/PrivacySolutions/i2pd/archive/0.3.0-homebrew.tar.gz"
+  mirror "https://sigterm.no/media/i2pd/archive/0.3.0-homebrew.tar.gz"
   version "0.3.0"
-  sha1 "3cb25e56f6858c229da5589027a7e9512326fa5a"
+  sha1 "dea884e827e235174fc477b3e26d8dd4ec1f1f8f"
 
 
   devel do
